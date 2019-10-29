@@ -1,0 +1,43 @@
+#wholepage {
+    top: 15px;
+    background-color: grey;
+    position: relative;
+    width: 70%;
+    height: 700px;
+    border: 2px solid green;
+    margin-left: auto;
+    margin-right: auto;
+}
+#block {
+    background-color:red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    outline: 2px solid black;
+    left: 5px;
+    bottom: 40px;
+    
+}
+#start {
+    position: absolute;
+    bottom: 0px;
+    left: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+  
+}
+#meta {
+    position: absolute;
+    top: 0px;
+    right: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    
+}
+#button {
+    position: absolute;
+    bottom: 0px;
+    left: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
